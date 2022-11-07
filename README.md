@@ -76,6 +76,10 @@ See the [open issues](#) for a full list of proposed features (and known issues)
 
 - GitHub: [@KIsmoilov](https://github.com/KIsmoilov)
 
+👤 Khusniddin Ismoilov
+
+- GitHub: [@Mancoba](https://github.com/Macoba)
+
 ## 🤝 Contributing
 
 - Contributions, issues, and feature requests are welcome!
