@@ -1,6 +1,6 @@
 import './index.css';
-import UtilityFunction from './methods.js';
-import InteractiveFunction from './interactiveList.js';
+import UtilityFunction from './modules/methods.js';
+import InteractiveFunction from './modules/interactiveList.js';
 
 const inputForm = document.getElementById('inputForm');
 const addTask = document.getElementById('addTask');

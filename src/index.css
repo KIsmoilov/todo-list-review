@@ -20,18 +20,6 @@ body {
   box-shadow: 0 4px 20px 3px rgb(0, 0, 0, 0.2);
 }
 
-@media screen and (max-width: 992px) {
-  #toDoForm {
-    width: 70%;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  #toDoForm {
-    width: 85%;
-  }
-}
-
 ::placeholder {
   font-style: italic;
   font-size: 15px;
@@ -173,4 +161,16 @@ input:focus {
 
 .checkbox {
   cursor: pointer;
+}
+
+@media screen and (max-width: 992px) {
+  #toDoForm {
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #toDoForm {
+    width: 85%;
+  }
 }
